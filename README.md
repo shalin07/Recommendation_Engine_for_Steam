@@ -1,5 +1,9 @@
 # Recommendation_Engine_for_Steam
 Recommending games for Steam
+Developed by 
+1) Shalin Barot
+2) Michal Lyskawinski
+3) SHrawan Sapre
 
 In broad terms, recommender systems are based on two strategies;
 
